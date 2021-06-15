@@ -1,0 +1,25 @@
+div{
+  background-color: green;
+}
+body{
+  text-align: center;
+}
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  width: 460px;
+  height: 460px;
+  margin: auto;
+}
+.col{
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  margin: auto;
+}
+.crossX{
+  background-image: url(images/cross.jpg);
+}
+.circleO{
+  background-image: url(images/circle.png);
+}
